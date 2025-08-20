@@ -5,8 +5,7 @@
 ## ✅ Complete Process (Start to Finish)
 
 ### 1. 🚀 Sign up for Veriff
-- Go to: [https://www.veriff.com/signup](https://www.veriff.com/signup)
-- After signing up, get your **sandbox API key** from the Veriff dashboard.
+- After signing up, get your **API key** from the Veriff dashboard.
 
 ---
 
