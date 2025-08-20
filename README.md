@@ -11,7 +11,7 @@
 
 ### 2. 🛠️ Set Up Your Backend (Node.js + Express)
 - Create a `POST` API endpoint:  
-  `POST /api/veriff/session`
+  `Ex: POST /api/veriff/session`
 - Use Veriff’s API to **create a session** and return the `session.url` to the frontend.
 - Make sure to **keep your Veriff API key private** and use it only in the backend.
 
